@@ -1,6 +1,6 @@
 package io.github.herbertfj.learning.solid.dip.bad;
 
-import io.github.herbertfj.learning.solid.dip.client.Engine9000;
+import io.github.herbertfj.learning.solid.dip.client.engine9000.Engine9000;
 
 class Car {
     private final Engine9000 engine;

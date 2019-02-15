@@ -1,6 +1,7 @@
-package io.github.herbertfj.learning.solid.dip.good;
+package io.github.herbertfj.learning.solid.dip.good.engine9500adapter;
 
-import io.github.herbertfj.learning.solid.dip.client.Engine9500;
+import io.github.herbertfj.learning.solid.dip.client.engine9500.Engine9500;
+import io.github.herbertfj.learning.solid.dip.good.engine.Engine;
 
 public class Engine9500Adapter implements Engine {
     private final Engine9500 engine9500;

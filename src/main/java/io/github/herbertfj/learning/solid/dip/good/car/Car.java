@@ -1,4 +1,6 @@
-package io.github.herbertfj.learning.solid.dip.good;
+package io.github.herbertfj.learning.solid.dip.good.car;
+
+import io.github.herbertfj.learning.solid.dip.good.engine.Engine;
 
 class Car {
     private final Engine engine;

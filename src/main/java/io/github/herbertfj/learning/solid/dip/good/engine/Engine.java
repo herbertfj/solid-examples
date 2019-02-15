@@ -1,4 +1,4 @@
-package io.github.herbertfj.learning.solid.dip.good;
+package io.github.herbertfj.learning.solid.dip.good.engine;
 
 public interface Engine {
 
